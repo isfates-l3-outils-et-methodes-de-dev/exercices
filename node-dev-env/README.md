@@ -15,4 +15,4 @@ Run `npm install` to install all dependencies specified in `package.json` and `p
 
 Run `npm start` to start the project in development mode
 
-### The application by default runs in port 3000
+### The application by default runs on port 3000
